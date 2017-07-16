@@ -323,6 +323,9 @@ Save pictures as GIF (*.gif*).
 *-ppm*::
 Save pictures as rawbits PPM (P6, *.ppm*).
 
+*-png*::
+Save pictures as PNG-8 with transparency.
+
 *-rgb* 'r' 'g' 'b'::
 Specify the transparent colour (default 0 47 47).
 
